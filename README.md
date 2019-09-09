@@ -1,1 +1,1 @@
-#shell-sanjay-rao
+Custom shell for *nix like systems 
